@@ -13,19 +13,19 @@ The dataset came from the U. C. Irvine Machine Learning Repository, included dat
 
 
 #### Models used:
-• kNN
-• Multi Layer Perceptron
-• Support Vector Machine
-• Decision Tree
-• Naive Bayes
-• Deep Learning
-• Random Forest
-• Logistic Regression
-• Linear Regression
-• LSTM
-• GRU
-• XGBoost
-• AdaBoost
+- kNN
+- Multi Layer Perceptron
+- Support Vector Machine
+- Decision Tree
+- Naive Bayes
+- Deep Learning
+- Random Forest
+- Logistic Regression
+- Linear Regression
+- LSTM
+- GRU
+- XGBoost
+- AdaBoost
 
 
 #### Results: 
